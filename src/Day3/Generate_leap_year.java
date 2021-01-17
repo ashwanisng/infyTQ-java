@@ -11,7 +11,7 @@ public class Generate_leap_year {
         }
 
         for (int i : leap_year) {
-            System.out.println(i);
+            System.out.print(i +" ");
         }
     }
 }
